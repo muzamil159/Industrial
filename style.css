@@ -661,6 +661,16 @@ margin-left: 700px;
     }
 
 }
+@media screen and (max-width: 638px) {
+    
+    
+    
+   .imr img{
+    width: 85% ;
+   }
+
+
+}
 
 
 
