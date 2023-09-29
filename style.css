@@ -636,8 +636,31 @@ margin-left: 700px;
 .p2-3{
     display: flex !important;
 }
+@media screen and (max-width: 496px) {
+    .footer-3 p{
+        display: none !important;
+    }
 
 
+}
+.btm{
+    background-color: #fff !important;
+    color: blue !important;
+    border-radius: 0% !important;
+    border: none !important;
+}
+@media screen and (max-width: 766px) {
+    .wm{
+        display: none;
+    }
+}
+@media screen and (max-width: 766px) {
+    .wp{
+        width: 100%;
+
+    }
+
+}
 
 
 
